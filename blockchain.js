@@ -1,6 +1,10 @@
 const UserData = require("./userdata");
 const Block = require("./block");
 
+  /*
+      This class creates the chain of blocks which consists of userdata
+   */
+
  class Blockchain {
     constructor(){
         this.chain =[this.createGenesisBlock()];

@@ -1,5 +1,9 @@
 const SHA256 = require('crypto-js/sha256');
 
+
+  /*
+      This class created the hash block of userdata  
+   */
 class Block {
     constructor(data, index=0, previousHash='' ) {
         this.index = index;
