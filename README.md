@@ -1,5 +1,5 @@
 # blockchain-sample
-blockchain example using javascript;
+blockchain example using javascript based on "Simply Explained - Savjee video"  https://www.youtube.com/watch?v=zVqczFZr124
 
 # install dependencies 
 npm install
