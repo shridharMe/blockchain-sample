@@ -1,5 +1,8 @@
 # blockchain-sample
 blockchain example using javascript;
 
-command to run:
+#install dependencies 
+npm install
+
+#run the application
 node main.js
