@@ -1,6 +1,6 @@
-const BlockChain = require("./blockchain");
-const Block = require("./block");
-const  UserData =  require("./userdata");
+const BlockChain = require("./src/blockchain");
+const Block = require("./src/block");
+const  UserData =  require("./src/userdata");
 
 let blockchain_sample = new BlockChain();
 

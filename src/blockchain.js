@@ -1,6 +1,6 @@
 const UserData = require("./userdata");
 const Block = require("./block");
-const SHA256 = require('crypto-js/sha256');
+
   /*
       This class creates the chain of blocks which consists of userdata
    */
