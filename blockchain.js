@@ -8,7 +8,7 @@ const Block = require("./block");
 
     createGenesisBlock(){         
         var genesisData = new UserData(); 
-        return new Block(0,genesisData,"0")       
+        return new Block(genesisData,0,"0")       
     }
 
     getLatestBlock(){
